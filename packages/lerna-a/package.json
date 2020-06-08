@@ -1,6 +1,6 @@
 {
   "name": "@laizn/lerna-a",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.2-beta.1",
   "description": "> TODO: description",
   "author": "Lai Zenan <laizenan@bytedance.com>",
   "homepage": "https://github.com/lonelam/lerna-first-playground#readme",
@@ -28,7 +28,7 @@
     "url": "https://github.com/lonelam/lerna-first-playground/issues"
   },
   "dependencies": {
-    "@laizn/lerna-b": "^0.0.2-beta.0",
+    "@laizn/lerna-b": "^0.0.2-beta.1",
     "typescript": "^3.9.5"
   }
 }
