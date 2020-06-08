@@ -1,3 +1,3 @@
 export function lernaB() {
-  console.log('lerna-b output modified');
+  console.log('lerna-b output recursive');
 }

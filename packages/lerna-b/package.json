@@ -28,6 +28,7 @@
     "url": "https://github.com/lonelam/lerna-first-playground/issues"
   },
   "dependencies": {
+    "@laizn/lerna-c": "^0.0.2-beta.2",
     "typescript": "^3.9.5"
   },
   "gitHead": "62dcc698a5e440e127b409df517211922381e281"
