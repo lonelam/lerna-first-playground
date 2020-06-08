@@ -1,11 +1,11 @@
 {
-  "name": "@laizn/lerna-a",
+  "name": "@laizn/lerna-c",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Lai Zenan <laizenan@bytedance.com>",
   "homepage": "https://github.com/lonelam/lerna-first-playground#readme",
   "license": "ISC",
-  "main": "lib/lerna-a.js",
+  "main": "lib/lerna-c.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,21 +13,18 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lonelam/lerna-first-playground.git"
   },
   "scripts": {
-    "build": "tsc",
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/lonelam/lerna-first-playground/issues"
   },
   "dependencies": {
-    "typescript": "^3.9.5"
+    "@laizn/lerna-a": "^0.0.1"
   }
 }

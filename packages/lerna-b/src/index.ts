@@ -1,1 +1,3 @@
-console.log('lerna-b output');
+export function lernaB() {
+  console.log('lerna-b output');
+}

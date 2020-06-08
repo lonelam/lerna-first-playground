@@ -1,0 +1,1 @@
+import { lernaA } from "@laizn/lerna-a";
