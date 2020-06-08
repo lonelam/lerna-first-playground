@@ -1,1 +1,1 @@
-export declare function lernaA(): void;
+export declare function lernaA(arg: number): void;

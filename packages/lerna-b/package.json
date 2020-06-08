@@ -5,7 +5,7 @@
   "author": "Lai Zenan <laizenan@bytedance.com>",
   "homepage": "https://github.com/lonelam/lerna-first-playground#readme",
   "license": "ISC",
-  "main": "lib/lerna-b.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,7 +21,8 @@
     "url": "git+https://github.com/lonelam/lerna-first-playground.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc"
   },
   "bugs": {
     "url": "https://github.com/lonelam/lerna-first-playground/issues"
